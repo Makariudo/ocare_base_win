@@ -41,7 +41,7 @@ class Appli extends Component {
           </div>
         ) : (
           <div>
-            <h2>No List Items Found</h2>
+            <h2>...searching...</h2>
           </div>
         )
       }
